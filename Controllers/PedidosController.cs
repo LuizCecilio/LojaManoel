@@ -74,7 +74,7 @@ namespace LojaManoel.Controllers
                 }
                 else
                 {
-                    if(produtos.Count > 2)
+                    if(produtos.Count > 1)
                     {
                         List<string> produtos2 = new List<string>();
                         List<string> produtos1 = new List<string>();
